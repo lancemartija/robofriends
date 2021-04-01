@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cyber Princess 3D Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cyber Princess 3D Italic'), url('CyberPrincess3D-Italic.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Cyber Princess 3D Italic';
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
