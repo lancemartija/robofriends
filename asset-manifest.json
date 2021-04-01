@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/lancemartija/robofriends/static/css/main.25376dd6.chunk.css",
-    "main.js": "/lancemartija/robofriends/static/js/main.6350a97f.chunk.js",
-    "main.js.map": "/lancemartija/robofriends/static/js/main.6350a97f.chunk.js.map",
+    "main.js": "/lancemartija/robofriends/static/js/main.fbd0c3ce.chunk.js",
+    "main.js.map": "/lancemartija/robofriends/static/js/main.fbd0c3ce.chunk.js.map",
     "runtime-main.js": "/lancemartija/robofriends/static/js/runtime-main.d0e2cbb8.js",
     "runtime-main.js.map": "/lancemartija/robofriends/static/js/runtime-main.d0e2cbb8.js.map",
     "static/css/2.fe359a49.chunk.css": "/lancemartija/robofriends/static/css/2.fe359a49.chunk.css",
-    "static/js/2.e54942bd.chunk.js": "/lancemartija/robofriends/static/js/2.e54942bd.chunk.js",
-    "static/js/2.e54942bd.chunk.js.map": "/lancemartija/robofriends/static/js/2.e54942bd.chunk.js.map",
+    "static/js/2.0eab909c.chunk.js": "/lancemartija/robofriends/static/js/2.0eab909c.chunk.js",
+    "static/js/2.0eab909c.chunk.js.map": "/lancemartija/robofriends/static/js/2.0eab909c.chunk.js.map",
     "static/js/3.dbc770d9.chunk.js": "/lancemartija/robofriends/static/js/3.dbc770d9.chunk.js",
     "static/js/3.dbc770d9.chunk.js.map": "/lancemartija/robofriends/static/js/3.dbc770d9.chunk.js.map",
     "index.html": "/lancemartija/robofriends/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/lancemartija/robofriends/static/css/2.fe359a49.chunk.css.map",
     "static/css/main.25376dd6.chunk.css.map": "/lancemartija/robofriends/static/css/main.25376dd6.chunk.css.map",
-    "static/js/2.e54942bd.chunk.js.LICENSE.txt": "/lancemartija/robofriends/static/js/2.e54942bd.chunk.js.LICENSE.txt",
+    "static/js/2.0eab909c.chunk.js.LICENSE.txt": "/lancemartija/robofriends/static/js/2.0eab909c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lancemartija/robofriends/static/media/CyberPrincess3D-Italic.dd1d2811.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d0e2cbb8.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.e54942bd.chunk.js",
+    "static/js/2.0eab909c.chunk.js",
     "static/css/main.25376dd6.chunk.css",
-    "static/js/main.6350a97f.chunk.js"
+    "static/js/main.fbd0c3ce.chunk.js"
   ]
 }
